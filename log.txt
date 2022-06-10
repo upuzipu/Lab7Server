@@ -1,0 +1,532 @@
+мая 10, 2022 2:11:44 PM Main.Main main
+INFO: Server started on 26.181.5.124:57748
+мая 10, 2022 2:13:15 PM Main.Main main
+INFO: Server started on 26.181.5.124:57813
+мая 10, 2022 2:16:36 PM Main.Main main
+INFO: Server started on 26.181.5.124:52381
+мая 10, 2022 9:56:36 PM Main.Main main
+INFO: Server started on 26.181.5.124:51300
+мая 10, 2022 9:56:59 PM Main.Main main
+INFO: Server started on 26.181.5.124:51322
+мая 10, 2022 10:02:32 PM Main.Main main
+INFO: Server started on 26.181.5.124:58529
+мая 10, 2022 10:02:49 PM Main.Main main
+INFO: Server started on 26.181.5.124:58550
+мая 10, 2022 10:05:36 PM Main.Main main
+INFO: Server started on 26.181.5.124:58675
+мая 10, 2022 10:08:09 PM Main.Main main
+INFO: Server started on 26.181.5.124:58798
+мая 10, 2022 10:09:47 PM Main.Main main
+INFO: Server started on 26.181.5.124:58845
+мая 10, 2022 10:14:14 PM Main.Main main
+INFO: Server started on 26.181.5.124:58986
+мая 10, 2022 10:15:20 PM Main.Main main
+INFO: Server started on 26.181.5.124:59029
+мая 10, 2022 10:17:05 PM Main.Main main
+INFO: Server started on 26.181.5.124:59086
+мая 10, 2022 10:31:49 PM Main.Main main
+INFO: Server started on 26.181.5.124:55551
+мая 10, 2022 10:32:55 PM Main.Main main
+INFO: Server started on 26.181.5.124:55585
+мая 10, 2022 10:34:28 PM Main.Main main
+INFO: Server started on 26.181.5.124:55788
+мая 10, 2022 10:34:48 PM Main.Main main
+INFO: Server started on 26.181.5.124:55811
+мая 10, 2022 10:39:21 PM Main.Main main
+INFO: Server started on 26.181.5.124:56077
+мая 10, 2022 10:45:34 PM Main.Main main
+INFO: Server started on 26.181.5.124:51470
+мая 10, 2022 10:56:54 PM Main.Main main
+INFO: Server started on 26.181.5.124:54770
+мая 10, 2022 11:00:39 PM Main.Main main
+INFO: Server started on 26.181.5.124:54952
+мая 10, 2022 11:00:53 PM Main.Main main
+INFO: Server started on 26.181.5.124:54968
+мая 11, 2022 12:53:45 AM Main.Main main
+INFO: Server started on 26.181.5.124:52799
+мая 11, 2022 1:26:46 AM Main.Main main
+INFO: Server started on 26.181.5.124:63767
+мая 11, 2022 1:35:36 AM Main.Main main
+INFO: Server started on 26.181.5.124:51806
+мая 11, 2022 1:39:38 AM Main.Main main
+INFO: Server started on 26.181.5.124:51983
+мая 11, 2022 1:51:55 AM Main.Main main
+INFO: Server started on 26.181.5.124:61152
+мая 11, 2022 1:56:51 AM Main.Main main
+INFO: Server started on 26.181.5.124:61305
+мая 11, 2022 2:01:42 AM Main.Main main
+INFO: Server started on 26.181.5.124:61541
+мая 11, 2022 2:28:25 AM Main.Main main
+INFO: Server started on 26.181.5.124:49890
+мая 11, 2022 2:48:14 AM Main.Main main
+INFO: Server started on 26.181.5.124:50730
+мая 11, 2022 3:31:21 AM Main.Main main
+INFO: Server started on 26.181.5.124:50643
+мая 11, 2022 3:42:19 AM Main.Main main
+INFO: Server started on 26.181.5.124:50081
+мая 11, 2022 3:48:44 AM Main.Main main
+INFO: Server started on 26.181.5.124:50416
+мая 11, 2022 10:17:02 AM Main.Main main
+INFO: Server started on 26.181.5.124:64633
+мая 11, 2022 10:17:54 AM Main.Main main
+INFO: Server started on 26.181.5.124:64671
+мая 25, 2022 12:18:00 AM Main.Main main
+INFO: Server started on 26.181.5.124:52931
+мая 25, 2022 12:23:52 AM Main.Main main
+INFO: Server started on 26.181.5.124:53105
+мая 25, 2022 2:55:50 AM Main.Main main
+INFO: Server started on 26.181.5.124:61425
+мая 25, 2022 4:00:05 AM Main.Main main
+INFO: Server started on 26.181.5.124:63201
+мая 25, 2022 5:49:01 AM Main.Main main
+INFO: Server started on 26.181.5.124:51655
+мая 25, 2022 5:53:49 AM Main.Main main
+INFO: Server started on 26.181.5.124:50495
+июн 03, 2022 4:00:38 PM Main.Main main
+SEVERE: PostgreSQL JDBC Driver is not found. Include it in your library path 
+июн 04, 2022 8:00:10 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:00:10 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "ids" does not exist
+июн 04, 2022 8:00:10 PM Main.Main main
+INFO: Server started on 26.181.5.124:53470
+июн 04, 2022 8:16:07 PM Main.Main main
+SEVERE: Database isn't available
+июн 04, 2022 8:16:19 PM Main.Main main
+SEVERE: Database isn't available
+июн 04, 2022 8:16:34 PM Main.Main main
+SEVERE: Database isn't available
+июн 04, 2022 8:18:50 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:18:50 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "ids" does not exist
+июн 04, 2022 8:18:50 PM Main.Main main
+INFO: Server started on 26.181.5.124:54377
+июн 04, 2022 8:20:50 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:20:50 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "ids" does not exist
+июн 04, 2022 8:20:50 PM Main.Main main
+INFO: Server started on 26.181.5.124:59415
+июн 04, 2022 8:48:26 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:48:26 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "id" does not exist
+июн 04, 2022 8:48:26 PM Main.Main main
+INFO: Server started on 26.181.5.124:56668
+июн 04, 2022 8:49:38 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:49:38 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "id" does not exist
+июн 04, 2022 8:49:38 PM Main.Main main
+INFO: Server started on 26.181.5.124:50302
+июн 04, 2022 8:50:41 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:50:41 PM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: ERROR: relation "ids" does not exist
+июн 04, 2022 8:50:41 PM Main.Main main
+INFO: Server started on 26.181.5.124:51856
+июн 04, 2022 8:58:55 PM Main.Main main
+SEVERE: Database isn't available
+июн 04, 2022 8:59:09 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 8:59:09 PM Main.Main main
+INFO: Server started on 26.181.5.124:51665
+июн 04, 2022 10:50:08 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 10:50:08 PM Main.Main main
+INFO: Server started on 26.181.5.124:60355
+июн 04, 2022 11:05:55 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:05:55 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:09:20 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:09:20 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:10:49 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:10:49 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:33:46 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:33:46 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:35:26 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:35:26 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:36:19 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:36:19 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:37:55 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:37:55 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:39:13 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:39:13 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:40:10 PM Main.Main main
+SEVERE: Database isn't available
+июн 04, 2022 11:40:26 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:40:27 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:40:35 PM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:1234
+Размер пакета = 5120
+июн 04, 2022 11:51:17 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:51:17 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:51:35 PM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:1234
+Размер пакета = 5120
+июн 04, 2022 11:53:15 PM Main.Main main
+INFO: Подключение к БД успешно
+июн 04, 2022 11:53:15 PM Main.Main main
+INFO: Server started on 26.181.5.124:123
+июн 04, 2022 11:53:31 PM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:1234
+Размер пакета = 5120
+июн 05, 2022 12:05:24 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:05:24 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:05:33 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:10:38 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:10:38 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:10:47 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:11:23 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:14:08 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:14:08 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:14:19 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:22:10 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:22:10 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:22:19 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:24:22 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:24:22 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:24:30 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:29:12 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:29:12 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:29:20 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:31:24 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:31:24 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:31:31 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:34:31 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:34:31 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:34:40 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:36:19 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:36:19 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:36:27 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:43:59 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:43:59 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:44:07 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:45:04 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:45:04 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:45:13 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 12:45:46 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 12:45:46 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 12:45:55 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:14:24 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:14:24 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 1:14:32 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:16:18 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:16:18 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 1:16:26 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:16:54 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:18:20 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:18:20 AM Main.Main main
+INFO: Server started on 26.181.5.124:4012
+июн 05, 2022 1:18:27 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:31:35 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:31:35 AM Main.Main main
+INFO: Server started on 26.181.5.124:12314
+июн 05, 2022 1:31:42 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:34:48 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:34:48 AM Main.Main main
+INFO: Server started on 26.181.5.124:12314
+июн 05, 2022 1:34:57 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:35:34 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:35:34 AM Main.Main main
+INFO: Server started on 26.181.5.124:12314
+июн 05, 2022 1:35:46 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:38:59 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:38:59 AM Main.Main main
+INFO: Server started on 26.181.5.124:12314
+июн 05, 2022 1:39:11 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:54:55 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 1:54:55 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 1:55:17 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:55:43 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 1:55:43 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 1:56:01 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:06:57 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:06:57 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:07:12 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:07:34 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:07:34 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:08:57 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:08:57 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:09:15 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:09:33 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:09:33 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:12:48 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:12:48 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:13:23 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:13:43 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:13:43 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: Не указано значение для параметра 1.
+июн 05, 2022 2:23:16 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:23:16 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:23:28 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:23:49 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:23:49 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:24:52 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:24:52 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:25:03 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:25:26 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:25:26 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:32:45 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:32:45 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:32:57 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:33:21 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:33:21 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:36:40 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:36:40 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:36:51 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:37:08 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:37:08 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: column "creationdate" is of type timestamp without time zone but expression is of type character varying
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 132
+июн 05, 2022 2:46:49 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:46:49 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:46:57 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:47:13 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:47:13 AM collection.CollectionManager add
+WARNING: Ошибка добавления в ДБ
+org.postgresql.util.PSQLException: ERROR: null value in column "id" of relation "world" violates not-null constraint
+  Подробности: Failing row contains (null, BMW, 123, 312, 2022-06-05, 213, PLANE, DIESEL, 123).
+июн 05, 2022 2:48:23 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:48:23 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:48:36 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:48:44 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:49:02 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:49:34 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:57:41 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 2:57:41 AM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: Индекс колонки вне диапазона: 10. Допустимые значения: 1..9
+июн 05, 2022 2:57:41 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 2:57:58 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 2:58:12 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 3:01:48 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 3:01:48 AM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: Индекс колонки вне диапазона: 10. Допустимые значения: 1..9
+июн 05, 2022 3:01:48 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 3:01:58 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 3:02:34 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
+июн 05, 2022 3:18:35 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 3:18:35 AM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: Индекс колонки вне диапазона: 10. Допустимые значения: 1..9
+июн 05, 2022 3:18:35 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 3:21:27 AM Main.Main main
+INFO: Подключение к БД успешно
+июн 05, 2022 3:21:27 AM collection.CollectionManager load
+WARNING: Не удалось получить доступ к БД
+org.postgresql.util.PSQLException: Индекс колонки вне диапазона: 10. Допустимые значения: 1..9
+июн 05, 2022 3:21:27 AM Main.Main main
+INFO: Server started on 26.181.5.124:12315
+июн 05, 2022 3:21:46 AM connection.CommunicationUDP receive
+INFO: Получен пакет от /26.181.5.124:60121
+Размер пакета = 5120
